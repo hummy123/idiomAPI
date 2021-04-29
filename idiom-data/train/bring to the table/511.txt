@@ -1,0 +1,1 @@
+This module gives you a head-start in understanding what the new specification brings to the table and how it affects future EJB deployments. 

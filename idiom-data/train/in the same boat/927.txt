@@ -1,0 +1,1 @@
+Most of the time were in the same boat as Matthias, we only get to choose the technical side, markup and server code for a particular design, so choosing the correct way to do it is definitely important.

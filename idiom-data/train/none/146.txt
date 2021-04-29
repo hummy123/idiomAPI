@@ -1,0 +1,1 @@
+It cannot, for instance, think ‘This is a dog’, when the object before it is a cat.

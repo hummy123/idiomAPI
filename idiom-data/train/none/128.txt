@@ -1,0 +1,1 @@
+Let us now introduce the symbols c and d as abbreviations for cats and dogs respectively.

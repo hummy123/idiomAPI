@@ -1,0 +1,1 @@
+The product gives the number of cubic inches of rain which fall on the house-top in a year, or in any time the rainfall of which is known.

@@ -1,0 +1,1 @@
+Stretches of the sequence can be referred as [ x:y ] , meaning " everything from index x to just before index y " . One of the two indexes can be left blank to give the logical result ( everything up to here , everything from here ) . You can change a list but you ca n't change a string : it 's immutable . 

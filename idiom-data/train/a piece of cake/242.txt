@@ -1,0 +1,1 @@
+A simple helper class to make generating an RSS feed a piece of cake - its the one we use on Developer Fusion too!
